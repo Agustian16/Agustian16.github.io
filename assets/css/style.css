@@ -1448,14 +1448,13 @@ blockquote h6 {
 }
 
 .ts-circle__lg {
-    border-radius: 50%;
     display: inline-block;
     height: 8.125rem;
     flex: 0 0 8.125rem;
     overflow: hidden;
     text-align: center;
     line-height: 8.125rem;
-    width: 8.125rem;
+    width: 300px;
 }
 
 .ts-circle__xl {
@@ -2934,4 +2933,12 @@ E. Template Specific Elements
     .ts-carousel-centered .owl-nav .owl-prev {
         left: 2.5rem;
     }
+}
+
+.figma {
+    width: 30px;
+}
+
+.nmap {
+    width: 50px;
 }
