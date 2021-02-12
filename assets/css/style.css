@@ -2942,3 +2942,8 @@ E. Template Specific Elements
 .nmap {
     width: 50px;
 }
+
+.idf {
+    max-width: 100%;
+    width: 137px;
+}
