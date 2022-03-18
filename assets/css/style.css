@@ -2942,6 +2942,12 @@ E. Template Specific Elements
 .nmap {
     width: 50px;
 }
+.nessus {
+    width: 130px;
+}
+.code-logo {
+    width: 80px;
+}
 
 .idf {
     max-width: 100%;
